@@ -3,3 +3,5 @@ steps:
     args:
       - echo
       - citi build is running now
+options:
+  logging: CLOUD_LOGGING_ONLY
