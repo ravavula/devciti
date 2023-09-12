@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is dev demo file"
+echo "This is dev demo"
